@@ -1,6 +1,6 @@
-# TIC-TAC-TOE-GAME IN C LANGAUGE
+# TIC-TAC-TOE-GAME IN C LANGUAGE
 
-## Features :
+## Features 
 
 1. Menu-driven Game
 2. If you make an invalid move or enter a choice that does not match the grid numbers, you have 2 options
@@ -11,3 +11,6 @@
 ## Video Demonstration of the Game
 
 https://user-images.githubusercontent.com/103310345/193400740-e6baa22e-4dc9-4143-9a76-6a458f25bb21.mp4
+
+## If you want a step-by-step explanation on how to make this game, check out my blog 
+<https://medium.com/@sim.ran22clg/how-to-create-a-game-of-tic-tac-toe-in-c-76563881774b>
